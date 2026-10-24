@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,35:166534,70:65a30d,100:facc15&height=190&section=header&text=ZenStriker&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=A%20small%20arcade%20shooter%20with%20a%20competitive%20edge.&descAlignY=58&descSize=16" alt="Zen Striker animated header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,35:166534,70:65a30d,100:facc15&height=190&section=header&text=ZenStriker&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=A%20small%20arcade%20shooter%20with%20a%20competitive%20edge.&descAlignY=58&descSize=16" alt="ZenStriker animated header" />
 
   <p>
     <img src="https://img.shields.io/badge/Client-Next.js%2015-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 15" />
